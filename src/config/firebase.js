@@ -2,13 +2,13 @@ import * as firebase from 'firebase';
 import 'firebase/firestore';
 
 var firebaseConfig = {
-    apiKey: "AIzaSyBlDRG0mfCg4ynSjZ2bdETid-8EIp3QxE8",
-    authDomain: "prova-c36da.firebaseapp.com",
+    apiKey: "A48D4D8S4F4EWFFWEDSF",
+    authDomain: "lucas-4541aa.firebaseapp.com",
     databaseURL: "https://prova-c36da.firebaseio.com",
-    projectId: "prova-c36da",
-    storageBucket: "prova-c36da.appspot.com",
+    projectId: "lucas-123",
+    storageBucket: "prova-4541aa.appspot.com",
     messagingSenderId: "1095774557497",
-    appId: "1:1095774557497:web:c74872198d2957330e04e8",
+    appId: "1:35434535339867:web:c567658768d2957330e04e8",
     measurementId: "G-BJSCFT8XP9"
 };
 
